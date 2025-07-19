@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+Публичный IP адрес: 51.250.39.172
+Фронтенд, домен: https://opv1.mesto.students.nomorepartiessbs.ru
+Бэкенд: домен: https://api.opv1.mesto.students.nomorepartiessbs.ru

@@ -130,6 +130,6 @@ class Api {
   }
 }
 
-const api = new Api("https://api.opv1.mesto.students.nomorepartiessbs.ru");
+const api = new Api("https://api.baduwasu.students.nomorepartiessbs.ru");
 
 export default api;
